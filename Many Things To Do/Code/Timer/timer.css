@@ -1,0 +1,28 @@
+#divtimer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.inptimer{
+    height:100%;
+    font-size:3em;
+    border:none;
+    pointer-events:painted;
+    color: rgb(107, 106, 106);
+}
+.but{
+    background-color:white;
+    border:none;
+}
+.ptime{
+    font-size:3em;
+    color:rgb(107, 106, 106);
+}
+#timenav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:10px;
+}

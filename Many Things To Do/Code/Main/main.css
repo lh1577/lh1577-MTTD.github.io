@@ -1,0 +1,123 @@
+
+#footerul{
+    border-top:3px solid rgb(107, 106, 106);
+    margin:0px;
+    padding:0px;
+    padding-top:30px;
+    bottom:0px;
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+.footerbutton{
+    margin:0px;
+    padding:0px;
+    border:none;
+    background-color:white;
+    font-size:1.5em;
+
+    
+}
+.plus{
+    margin:0px;
+    padding: 0;
+    height:68px;
+    width:68px;
+}
+#input{
+    font-size:3em;
+    height:68px;
+    border:none;
+    border-bottom:3px solid rgb(107, 106, 106);
+}
+#sB{
+    margin: 0;
+    padding: 0;
+    border:none;
+    background-color:white;
+    width:34px;
+    height:34px;
+    font-size:1.5em;
+    margin-left:10px;
+}
+#headmain{
+    margin:0px;
+    padding:0px;
+    display:flex;
+    padding-top:60px;
+    justify-content: center;
+    padding-bottom:30px;
+    border-bottom:3px solid rgb(107, 106, 106);
+}
+.footerli{
+    margin:10px;
+}
+#ul{
+    margin:0px;
+    padding: 0;
+    justify-content:center;
+    display: flex;
+    list-style-type:none;
+    flex-direction: column;
+}
+#li{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forButton{
+    margin:0px;
+    padding: 0px;
+    border:none;
+    background-color:white;
+    align-items: center;
+    margin:5px;
+}
+.imageIcons{
+    height:68px;
+    width:68px;
+}
+.p{
+    font-size:2em;
+    padding:0px;
+    margin:0px;
+    width:300px;
+    height:34px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.footerbutton{
+    margin:0px;
+    padding: 0px;
+    height:34px;
+}
+.icon{
+    height:46px;
+    width:46px;
+    margin: 0;
+    padding: 0;
+}
+.sub{
+    height:46px;
+    width:46px;
+    margin: 0;
+    padding: 0;
+    border:none;
+    background-color:white;
+}
+.inp{
+    border:none;
+    border-bottom:3px solid rgb(107, 106, 106);
+    font-size:2em;
+    padding:0px;
+    margin:0px;
+    width:266px;
+    height:34px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

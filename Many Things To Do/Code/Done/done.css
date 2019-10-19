@@ -1,0 +1,27 @@
+.headdone{
+    display:flex;
+    justify-content: center;
+    padding:0px;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom:10px;
+    align-items: center;
+    border-bottom:3px solid rgb(107, 106, 106);
+}
+.headp{
+    font-size: 3em;
+    color:rgb(107, 106, 106);
+}
+#uldone{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style-type: none;
+    
+}
+.lidone{
+    font-size: 1.5em;
+    color:rgb(107, 106, 106);
+    
+}
